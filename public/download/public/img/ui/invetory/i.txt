@@ -1,0 +1,27 @@
+Slot start: 50, 50 (50 + 87 * wiersz, 50 + 87 * kolumna)
+Slot size: 85, 85
+Slot space: 2 = witch 87
+Slot map : 6x4 (20 slots)
+
+-Armor Slots
+Slot start: 660, 50 
+Slot size: 110, 110
+Slot space: 4 = witch 114
+Slot map: 1x4
+
+-Weapon Slots
+Slot start: 
+Slot size:
+Slot space:
+
+Be draw:
+-Invetory
+-Items in slots
+-Item info
+-Dragable Item
+
+Types of Dragable methods:
+-Przenoszenie na wolny slot
+-Zamiania miejsc
+
+
